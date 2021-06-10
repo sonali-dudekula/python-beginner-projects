@@ -1,4 +1,5 @@
 # Tip calculator
+
 print("Welcome to the Tip Calculator")
 total_bill = float(input("What was the total bill? "))
 percent_tip = int(input("What percentage tip would you like to give? 10, 12, or 15? "))
